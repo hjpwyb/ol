@@ -12,7 +12,7 @@
 {
 ## 
  
- "spider": "https://gitdl.cn/https://raw.githubusercontent.com/fish2018/ol/main/jar/小马.js",
+ "spider": "https://kenyu.ggff.net/https://raw.githubusercontent.com/fish2018/ol/main/jar/小马.js",
 "logo": "https://wp.szyyds.cn/f/6djcP/logo.jpg",
 
   
@@ -57,7 +57,7 @@
 {"key": "yc","name": "山鬼","type": 3,"playerType": 1,"api": "csp_Hdhive","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://pan.shangui.cc/f/p5RUL/tk.php","jar": "https://jihulab.com/ymz1231/jar/-/raw/main/xry.jar"},
 {"key": "索尼","name": "索尼资源","type": 1,"playerType": 2,"api": "https://suoniapi.com/api.php/provide/vod/?ac=list","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧", "韩剧", "日剧", "港剧", "台剧", "泰剧","记录片","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","足球","影视解说","国产动漫"] },
 
-{"key": "非凡","name": "❤非凡","type": 0,"api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable": 1,"changeable": 1,"categories": ["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"],"jar": "https://hub.gitmirror.com/https://raw.githubusercontent.com/lllyin/assets/master/fm.png;md5;945ad30d5255359385ba59b8fb061bb7"},
+{"key": "非凡","name": "❤非凡","type": 0,"api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable": 1,"changeable": 1,"categories": ["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"],"jar": "https://kenyu.ggff.net/https://raw.githubusercontent.com/lllyin/assets/master/fm.png;md5;945ad30d5255359385ba59b8fb061bb7"},
 #新增
 {
             "key": "php_hmezy",
