@@ -1,5 +1,5 @@
 {
-	"spider":"https://kenyu.ggff.net/https://raw.githubusercontent.com/fish2018/ol/main/jar/月光.js",
+	"spider":"https://kenyu.ggff.net/https://raw.githubusercontent.com/hjpwyb/ol/main/jar/月光.js",
 	"sites":[
 		{
             "key": "js豆瓣1",
