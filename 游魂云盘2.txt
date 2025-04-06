@@ -12,7 +12,7 @@
 {
 "wallpaper":"https://xn--s6wu47g.u.nxog.top/m/t/",
 "logo":"https://xn--s6wu47g.u.nxog.top/m//LOGO2.gif",
-"spider":"https://gitdl.cn/https://raw.githubusercontent.com/fish2018/ol/main/jar/游魂云盘2.js","warningText":"游魂提示:
+"spider":"https://kenyu.ggff.net/https://raw.githubusercontent.com/fish2018/ol/main/jar/游魂云盘2.js","warningText":"游魂提示:
 📢接口软件永远免费 
 📢长期维护切勿贩卖",
 
@@ -23,7 +23,7 @@
 ],
 "sites": [
 {"key":"豆瓣2","name":"📢游魂榜单u.nxog.top","type":3,"api":"csp_Douban","searchable":0},
-{"key":"豆瓣1","name":"📢游魂公告❤更新:9/4❤","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"https://gitdl.cn/https://raw.githubusercontent.com/fish2018/ol/main/jar/游魂云盘2.js","ext": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/?b=游魂"},
+{"key":"豆瓣1","name":"📢游魂公告❤更新:9/4❤","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"https://kenyu.ggff.net/https://raw.githubusercontent.com/fish2018/ol/main/jar/游魂云盘2.js","ext": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/?b=游魂"},
 
 
 {"key":"欧歌幕1","name":"🐲欧歌┃4K弹幕","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","site":"https://woog.nxog.asia","danmu": true}},
@@ -76,8 +76,8 @@
 
 
 {"key":"采集之王","name":"🐲采王┃采集","type":3,"api":"https://xn--s6wu47g.u.nxog.top/m/js/drpy2.min.js","searchable":1,"quickSearch":1,"order_num":142,"ext":"https://xn--s6wu47g.u.nxog.top/m/js/采集之王.js?type=url&params=https://xn--s6wu47g.u.nxog.top/m/json/采集静态.json"},
-{"key":"push_agent","name":"🎱推送┃电视","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0,"jar":"https://gitdl.cn/https://raw.githubusercontent.com/fish2018/ol/main/jar/游魂云盘2.js",ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt"}},
-{"key": "应用商店","name": "🛒影视应用商店","type": 3,"jar":"https://gitdl.cn/https://raw.githubusercontent.com/fish2018/ol/main/jar/游魂云盘2.js","api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/sd.php"},
+{"key":"push_agent","name":"🎱推送┃电视","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0,"jar":"https://kenyu.ggff.net/https://raw.githubusercontent.com/fish2018/ol/main/jar/游魂云盘2.js",ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt"}},
+{"key": "应用商店","name": "🛒影视应用商店","type": 3,"jar":"https://kenyu.ggff.net/https://raw.githubusercontent.com/fish2018/ol/main/jar/游魂云盘2.js","api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/sd.php"},
 {"key":"豆瓣3","name":"📢接口软件永远免费","type":3,"api":"csp_Douban","searchable":0},
 {"key":"豆瓣4","name":"📢长期维护切勿贩卖","type":3,"api":"csp_Douban","searchable":0}
 
