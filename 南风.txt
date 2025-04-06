@@ -3,7 +3,7 @@
 //🐧裙：926953902
 
 {
-	"spider": "https://kenyu.ggff.net/https://raw.githubusercontent.com/fish2018/ol/main/jar/南风.js",
+	"spider": "https://kenyu.ggff.net/https://raw.githubusercontent.com/hjpwyb/ol/main/jar/南风.js",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
 	"sites":[
