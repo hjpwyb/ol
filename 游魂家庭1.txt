@@ -12,7 +12,7 @@
 {
 "wallpaper":"https://xn--s6wu47g.u.nxog.top/m/t/",
 "logo":"https://xn--s6wu47g.u.nxog.top/m//LOGO2.gif",
-"spider":"https://kenyu.ggff.net/https://raw.githubusercontent.com/fish2018/ol/main/jar/游魂家庭1.js","warningText":"游魂提示:
+"spider":"https://raw.githubusercontent.com/fish2018/ol/main/jar/游魂家庭1.js","warningText":"游魂提示:
 📢接口软件永远免费 
 📢长期维护切勿贩卖",
 
