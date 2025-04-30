@@ -1,7 +1,7 @@
 
 http://www.饭太硬.com/tv
 {
-  "spider": "https://kenyu.ggff.net/https://raw.githubusercontent.com/fish2018/ol/main/jar/盒子迷.js",
+  "spider": "https://raw.githubusercontent.com/fish2018/ol/main/jar/盒子迷.js",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -595,7 +595,7 @@ http://www.饭太硬.com/tv
     {
       "name": "TV",
       "type": 0,
-      "url": "https://kenyu.ggff.net/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+      "url": "https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
       "playerType": 1
     },
     {
